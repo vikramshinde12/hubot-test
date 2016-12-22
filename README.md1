@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hubot-hubot-test
 
 This script is checking the status
@@ -28,3 +29,7 @@ hubot>> hello!
 ## NPM Module
 
 https://www.npmjs.com/package/hubot-hubot-test
+=======
+# hubot-test
+hubot test
+>>>>>>> fbb81c5078b6dfeb08ad9665213521d21055e51f
