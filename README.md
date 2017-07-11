@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/vikramshinde12/hubot-test.svg?branch=master)(https://travis-ci.org/vikramshinde12/hubot-test)
+[![Build Status](https://api.travis-ci.org/vikramshinde12/hubot-test.svg?branch=master)] (https://travis-ci.org/vikramshinde12/hubot-test)
 
 <<<<<<< HEAD
 # hubot-hubot-test
