@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kubernetes/heapster.svg?branch=master)](https://travis-ci.org/kubernetes/heapster)
+
 <<<<<<< HEAD
 # hubot-hubot-test
 
