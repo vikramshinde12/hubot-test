@@ -2,8 +2,8 @@
 pipeline { 
   agent any
   environment {        /* to configure an env variable at top lables*/
-      name = 'sukanta'      / this var is avaiable to all steps below /
-           }        / var declared at top label is added to JENKINS's env var list /
+      name = 'sukanta'     
+           }        
      
    parameters {
         string(name: 'Greeting1', defaultValue: 'Hello1', description: 'How should I greet the world?') / used defined parameters , with default value /
@@ -37,7 +37,7 @@ pipeline {
        }
     }
    stage ('Set Env Vars...') {
-       environment {      / var defined inside stage is local to this stage /
+       environment {      
        surname = 'sahoo'
        }
     steps { 
